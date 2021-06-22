@@ -1,5 +1,4 @@
 #include "holberton.h"
-
 /**
  * print_alphabet_x10 - Prints all alphabets 10 times
  */
@@ -15,4 +14,5 @@ for (c = 'a'; c <= 'z'; c++)
 _putchar(c);
 }
 _putchar('\n');
+}
 }
