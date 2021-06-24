@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * more_numbers_x10 - print the numbers from 0-9 ten times
+ * more_numbers - print the numbers from 0-9 ten times
  */
 void more_numbers(void)
 {
