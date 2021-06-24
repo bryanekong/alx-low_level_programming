@@ -1,7 +1,7 @@
 #include "holberton.h"
 /**
  * print_diagonal - Write a function that draws a diagonal line on the terminal
- * @n: Integer amount of \
+ * @n: times to print
  */
 void print_diagonal(int n)
 {
